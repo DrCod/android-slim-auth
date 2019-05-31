@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android-Retrofit-SignUp-Login</string>
+    <string name="login_title">Login</string>
+    <string name="signup_title">Sign Up</string>
+    <string name="retro_fit">Retrofit</string>
+    <string name="email">Email address</string>
+    <string name="password">Password</string>
+    <string name="error_invalid_password">Invalid Passwod</string>
+    <string name="error_field_required">Email is required</string>
+    <string name="error_invalid_email">Invalid email</string>
+</resources>
